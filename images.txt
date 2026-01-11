@@ -1,5 +1,6 @@
 ubuntu:24.04
 pytorch/llvm:9.0.1
+rocm/pytorch:rocm7.1_ubuntu24.04_py3.12_pytorch_release_2.9.1
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
